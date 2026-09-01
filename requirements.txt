@@ -1,0 +1,11 @@
+# Environment requirements for cross_domain_generalization_demo.ipynb
+#
+# Tested with Python 3.13.9. Any Python >= 3.10 should work#
+# Install with:
+#   pip install -r requirements.txt
+
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.6
+jupyter==1.1.1
